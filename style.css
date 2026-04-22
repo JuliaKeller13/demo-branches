@@ -33,3 +33,9 @@ button {
 button:hover {
     background: #0b5ed7;
 }
+
+.footer {
+    margin-top: 2rem;
+    font-size: 0.875rem;
+    color: #666;
+}
