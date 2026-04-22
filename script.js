@@ -1,7 +1,7 @@
-const actionButton = document.getElementById('actionButton');
+const actionButton = document.getElementById("actionButton");
 
 if (actionButton) {
-    actionButton.addEventListener('click', () => {
-        alert('JavaScript funktioniert.');
-    });
+  actionButton.addEventListener("click", () => {
+    alert("JavaScript funktioniert.");
+  });
 }
